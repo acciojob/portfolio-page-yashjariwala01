@@ -3,6 +3,9 @@
 #profile h3{
     color: orangered;
 }
+img{
+width:200px
+}
 
 .link:hover{
     background-color: orangered;
